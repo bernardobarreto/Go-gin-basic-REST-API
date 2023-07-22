@@ -2,7 +2,7 @@
 
 ### Running
 ```
-got get .
+go get .
 go run .
 ```
 
